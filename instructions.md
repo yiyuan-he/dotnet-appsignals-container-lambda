@@ -16,8 +16,8 @@ This document outlines the necessary steps to download the `layer.zip` artifact 
 
 ## 1. Set Up Project Structure
 ```console
-mkdir dotnet-lambda-function && \
-cd dotnet-lambda-function
+mkdir dotnet-appsignals-container-lambda && \
+cd dotnet-appsignals-container-lambda
 ```
 
 ## 2. Obtaining and Using the OpenTelemetry Layer with AppSignals Support
